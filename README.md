@@ -1,7 +1,10 @@
 # CSCI 3308 Lab 2: Team Formation
 Noah Vilas - noahvirus
+
 Cameron Davis - citren0
+
 Gregory Sinnott - gnsinnott
+
 Sean Shi - sesh9096
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
