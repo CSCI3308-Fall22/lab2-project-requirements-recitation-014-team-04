@@ -1,8 +1,21 @@
+
+Project Team Members:
+Cameron Davis
+
+
+changing things for fun #🛸 CSCI 3308 Lab 2: Team Formation
+
+
 h
 h
 h
+
 Project Team Members: Sean Shi
+
+
+
 # CSCI 3308 Lab 2: Team Formation
+Noah Vilas
 Noah Vilas - noahvirus
 
 Cameron Davis - citren0
@@ -28,3 +41,5 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
+
+This is a dope change
