@@ -1,4 +1,4 @@
-# CSCI 3308 Lab 2: Team Formation
+changing things for fun #🛸 CSCI 3308 Lab 2: Team Formation
 Noah Vilas - noahvirus
 
 Cameron Davis - citren0
