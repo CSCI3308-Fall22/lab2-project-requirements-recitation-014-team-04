@@ -1,5 +1,5 @@
+Project Team Members: Sean Shi
 # CSCI 3308 Lab 2: Team Formation
-Sean Shi
 Noah Vilas - noahvirus
 
 Cameron Davis - citren0
