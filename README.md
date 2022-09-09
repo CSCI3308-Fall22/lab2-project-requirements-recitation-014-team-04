@@ -10,6 +10,10 @@ h
 h
 h
 
+Project Team Members: Sean Shi
+
+
+
 # CSCI 3308 Lab 2: Team Formation
 Noah Vilas
 Noah Vilas - noahvirus
